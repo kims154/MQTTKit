@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "MQTT TEST"
 
-  s.description  = ""
+  s.description  = "This is a MQTTKit TEST"
 
   s.homepage     = "https://github.com/jmesnil/MQTTKit"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
