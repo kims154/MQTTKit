@@ -72,7 +72,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/kims154/MQTTKit.git", :commit => "a628c8fc0520264636579c1a2cdc7f22ea1a7fb3"}
+  s.source       = { :git => "https://github.com/kims154/MQTTKit.git", :commit => "8bccc188acf9168be8de690e17ee03929ea8269a"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
