@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   # for using GCD queue as Objective-C objects
   s.ios.deployment_target = "6.0"
   s.osx.platform = :osx, '10.9'
-  s.source       = { :git => "https://github.com/jmesnil/MQTTKit.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/kims154/MQTTKit", :tag => "#{s.version}" }
 
   s.source_files  = 'libmosquitto/*.{h,c}', 'MQTTKit/*.{h,m}'
   s.public_header_files = 'MQTTKit/MQTTKit.h'
